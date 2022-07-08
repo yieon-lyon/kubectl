@@ -1,4 +1,4 @@
-name: kubectl-eks
+name: kubectl-eks-actions
 description: "'kubectl' for eks"
 author: 'Eoncheol Yi'
 branding:
