@@ -4,8 +4,7 @@ FROM alpine/k8s:1.20.4
 LABEL maintainer="Eoncheol Yi <parrotbill@naver.com>"
 
 RUN apk add --update \
-        coreutils \
-        py-pip
+        coreutils
 
 RUN pip install awscli
 
