@@ -1,5 +1,5 @@
 # eks version
-FROM alpine/k8s:1.20.4
+FROM alpine/k8s:1.23.16
 
 LABEL maintainer="Eoncheol Yi <parrotbill@naver.com>"
 
